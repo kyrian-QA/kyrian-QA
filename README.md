@@ -1,7 +1,7 @@
 # Hi, I’m Kyrian 👋 
 **Aspiring QA Tester | Manual & Automation Testing**
 
-🎓 QA Certification [Uploading QA Tester certificate.pdf…]()
+🎓 QA Certification
 
 🧪 Manual & Automation Testing Projects 
 🔧 Tools: JIRA, Selenium, Postman
