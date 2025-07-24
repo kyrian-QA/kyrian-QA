@@ -11,5 +11,3 @@
  🚀 Goals 
 - Build a strong portfolio with hands-on QA projects 
 - Land a remote or hybrid Junior QA Tester role 
-(https://github.com/user-attachments/files/21398139/QA.Tester.certificate.pdf)
-pdf) 
