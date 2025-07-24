@@ -6,3 +6,4 @@
 🔧 Tools: JIRA, Selenium, Postman
 
 🚀 Passionate about quality, bug-hunting, and clean user experiences.
+[Uploading QA Tester certificate.pdf…]()
