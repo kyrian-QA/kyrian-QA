@@ -7,8 +7,7 @@
  🛠️ Current Projects 
 - Writing manual test cases for sample e-commerce and login apps 
 - Logging bugs using JIRA-style reports 
-- Practicing automation basics using Selenium 
- 🚀 Goals 
-- Build a strong portfolio with hands-on QA projects 
+- Practicing automation basics using Selenium  
+-  Goals Build a strong portfolio with hands-on QA projects 
 - Land a remote or hybrid Junior QA Tester role 
 [View My QA Certificate](QA.Tester.certificate.pdf) 
