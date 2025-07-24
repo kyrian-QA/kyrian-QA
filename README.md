@@ -1,8 +1,15 @@
 # Hi, I’m Kyrian 👋 
-**Aspiring QA Tester | Manual & Automation Testing**
-🎓 QA Certification
+
+**Aspiring QA Tester | Manual & Automation Testing** 
+
+📄 [View My QA Certificate](QA.Testercertificate.pdf) 
 🧪 Manual & Automation Testing Projects 
-🔧 Tools: JIRA, Selenium, Postman
- 🚀 Passionate about quality, bug-hunting, and clean user experiences.
-📄 [View My QA Certificate](QA.Testercertificate.pdf)
-QA.Testercertificate.pdf
+🔧 Tools: JIRA, Selenium, Postman 
+💡 Passionate about quality, bug-hunting, and clean user experiences. 
+ 🛠️ Current Projects 
+- Writing manual test cases for sample e-commerce and login apps 
+- Logging bugs using JIRA-style reports 
+- Practicing automation basics using Selenium 
+ 🚀 Goals 
+- Build a strong portfolio with hands-on QA projects 
+- Land a remote or hybrid Junior QA Tester role 
